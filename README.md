@@ -1,0 +1,1 @@
+# nuxt-assets-checker
