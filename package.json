@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-assets-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naphro/nuxt-assets-checker.git"
+  },
+  "author": "Neil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naphro/nuxt-assets-checker/issues"
+  },
+  "homepage": "https://github.com/Naphro/nuxt-assets-checker#readme"
+}
